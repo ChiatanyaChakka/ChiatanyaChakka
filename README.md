@@ -37,7 +37,7 @@
  </p>
 <br>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChiatanyaChakka&show_icons=true&locale=en&layout=compact" alt="chaitanyachakkapoplangs" height="200"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ChiatanyaChakka&show_icons=true&locale=en" alt="chaitanyachakkareadmestats" height="200"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChiatanyaChakka&show_icons=true&locale=en&layout=compact" alt="chaitanyachakkapoplangs"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ChiatanyaChakka&show_icons=true&locale=en" alt="chaitanyachakkareadmestats" />
 </p>
 
