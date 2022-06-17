@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Chakka</h1>
 <h3 align="center">Hustle your way! No shortcuts.</h3>
-<img align="right" alt="GIF" src="code.webp" width="550" height="300" />
+<img align="right" alt="GIF" src="code.webp" width="500" height="300" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiatanyachakka&label=Profile%20views&color=0e75b6&style=flat" alt="chiatanyachakka" /> </p> -->
 
 <h3 align="left">Languages</h3>
@@ -36,7 +36,7 @@
   <a href="https://codeforces.com/profile/CeReBuS_3r38u5" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="werdun" height="30" width="40" /></a>
  </p>
 <br>
-<div>
+<!-- <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChiatanyaChakka&show_icons=true&locale=en&layout=compact" alt="chaitanyachakkapoplangs"/>
 <img display="inline-block" align="left" src="https://github-readme-stats.vercel.app/api?username=ChiatanyaChakka&show_icons=true&locale=en" alt="chaitanyachakkareadmestats"/>
-</div>
+</div> -->
