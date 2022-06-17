@@ -36,6 +36,7 @@
   <a href="https://codeforces.com/profile/CeReBuS_3r38u5" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="werdun" height="30" width="40" /></a>
  </p>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChiatanyaChakka&show_icons=true&locale=en&layout=compact" alt="chaitanyachakkapoplangs"height="150"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ChiatanyaChakka&show_icons=true&locale=en" alt="chaitanyachakkareadmestats" height="150"/>
-
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChiatanyaChakka&show_icons=true&locale=en&layout=compact" alt="chaitanyachakkapoplangs"height="200"/>
+<img display="inline-block" align="left" src="https://github-readme-stats.vercel.app/api?username=ChiatanyaChakka&show_icons=true&locale=en" alt="chaitanyachakkareadmestats" height="200"/>
+</div>
